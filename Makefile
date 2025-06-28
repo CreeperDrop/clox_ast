@@ -4,8 +4,6 @@ CC = cc
 CFLAGS = -Wall -Wextra -Werror -O3
 
 SRC_DIR = src
-# OBJ = $(SRC:.c =.o)
-# INC = -I$(wildcard include/*.h)
 INC_DIR = include
 INC = -I$(INC_DIR)
 
