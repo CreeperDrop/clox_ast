@@ -3,10 +3,10 @@ void runPrompt()
 {
 
 	char line[100];
+	printf("%s\n", WELCOME);
 
 	while(1) {
 
-		printf("%s\n", WELCOME);
 		printf("%s", PROMPT);
 		read_line(line);
 
