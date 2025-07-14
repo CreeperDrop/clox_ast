@@ -15,7 +15,7 @@ $ make debug
 ```
 
 ## Philosophy
-Why C and not Java? 
+#### Why C and not Java? 
 I found myself copying and pasting most of the Java code so to force myself to understand what is happening, I decided to go with C.
 
 
